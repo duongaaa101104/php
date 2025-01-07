@@ -1,5 +1,5 @@
-# Hoang Van A
-### MSV: 000111
+# Nguyễn Xuân Dương
+### MSV: 22810310396
 ## Ket qua
 
-![Hinh anh 01](anhr1.jpg)
+![Hinh anh 01](ảnh1.jpg)
